@@ -1,0 +1,61 @@
+
+- [使用说明](/docs/{{type}}/{{version}}/index)
+- [认证参数](/docs/{{type}}/{{version}}/authentication)
+- [首页数据](/docs/{{type}}/{{version}}/home)
+- [分类数据](/docs/{{type}}/{{version}}/category)
+- ## 注册登陆
+    - [登陆流程](/docs/{{type}}/{{version}}/login-index)
+    - [快捷登陆](/docs/{{type}}/{{version}}/login-quick)
+    - [获取验证短信](/docs/{{type}}/{{version}}/login-get-smscode)
+    - [短信登录](/docs/{{type}}/{{version}}/login-sms)
+    - [微信手机登录](/docs/{{type}}/{{version}}/login-mobile)
+    - [获取openid](/docs/{{type}}/{{version}}/get-openid)
+- ## 商品
+    - [商品列表](/docs/{{type}}/{{version}}/goods-index)
+    - [商品详情页](/docs/{{type}}/{{version}}/goods-detail)
+    - [商品库存](/docs/{{type}}/{{version}}/goods-stock)
+    - [商品库存](/docs/{{type}}/{{version}}/goods-poster)
+- ## 购物车
+    - [商品列表](/docs/{{type}}/{{version}}/cart-index)
+    - [添加商品](/docs/{{type}}/{{version}}/cart-add)
+    - [修改商品](/docs/{{type}}/{{version}}/cart-update)
+    - [删除商品](/docs/{{type}}/{{version}}/cart-delete)
+    - [商品数量](/docs/{{type}}/{{version}}/cart-count)
+    - [清空](/docs/{{type}}/{{version}}/cart-clear)
+- ## 购物流程
+    - [结算](/docs/{{type}}/{{version}}/shopping-checkout)
+    - [提交](/docs/{{type}}/{{version}}/shopping-confirm)
+    - [支付](/docs/{{type}}/{{version}}/shopping-pay)
+    - [验证支付](/docs/{{type}}/{{version}}/shopping-paid)
+    - [发货](/docs/{{type}}/{{version}}/shopping-delivery)
+    - [收货](/docs/{{type}}/{{version}}/shopping-received)
+    - [评价](/docs/{{type}}/{{version}}/shopping-review)
+    - [取消](/docs/{{type}}/{{version}}/shopping-cancel)
+- ## 收货地址
+    - [列表](/docs/{{type}}/{{version}}/address-index)
+    - [新增](/docs/{{type}}/{{version}}/address-add)
+    - [修改](/docs/{{type}}/{{version}}/address-update)
+    - [详情](/docs/{{type}}/{{version}}/address-detail)
+    - [删除](/docs/{{type}}/{{version}}/address-delete)
+    - [默认地址](/docs/{{type}}/{{version}}/address-default)
+- ## 收藏
+    - [收藏列表](/docs/{{type}}/{{version}}/favorite-index)
+    - [是否收藏](/docs/{{type}}/{{version}}/favorite-isfav)
+    - [添加收藏](/docs/{{type}}/{{version}}/favorite-add)
+    - [取消收藏](/docs/{{type}}/{{version}}/favorite-delete)
+    - [批量删除](/docs/{{type}}/{{version}}/favorite-batch-delete)
+- ## 个人中心
+    - [当前用户信息](/docs/{{type}}/{{version}}/ucenter-me)
+    - [修改资料](/docs/{{type}}/{{version}}/ucenter-update)
+    - [修改手机](/docs/{{type}}/{{version}}/ucenter-update-mobile)
+    - [修改头像](/docs/{{type}}/{{version}}/ucenter-update-avatar)
+    - [汇总数据](/docs/{{type}}/{{version}}/ucenter-count)
+- ## 订单
+    - [列表](/docs/{{type}}/{{version}}/ucenter-order-index)
+    - [详情](/docs/{{type}}/{{version}}/ucenter-order-detail)
+- ## 优惠券
+    - [列表](/docs/{{type}}/{{version}}/ucenter-coupon-index)
+    - [详情](/docs/{{type}}/{{version}}/ucenter-coupon-detail)
+    
+
+   
