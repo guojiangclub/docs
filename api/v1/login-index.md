@@ -13,9 +13,9 @@
 
 ### API 接口
 
-1. [快捷登陆](https://www.ibrand.cc/docs/api/v1/login-quick)：用户进入登陆流程时，小程序首先把 code 通过该接口传给后端，后端通过 code 去拿 openid，并且判断该 openid 是否存在用户，如果已经存在则直接返回 token，如果不存在则返回 openid 给前端。
-2. [微信手机登陆](https://www.ibrand.cc/docs/api/v1/login-mobile)：通过微信授权手机号直接登陆创建账号返回 token 给前端。
-3. [短信登录](https://www.ibrand.cc/docs/api/v1/login-sms)：如果用户不通过微信授权手机号登陆，用户可以继续通过[发送短信](https://www.ibrand.cc/docs/api/v1/login-get-smscode)进行短信登陆。
+1. [快捷登陆](https://guojiang.club/docs/api/v1/login-quick)：用户进入登陆流程时，小程序首先把 code 通过该接口传给后端，后端通过 code 去拿 openid，并且判断该 openid 是否存在用户，如果已经存在则直接返回 token，如果不存在则返回 openid 给前端。
+2. [微信手机登陆](https://guojiang.club/docs/api/v1/login-mobile)：通过微信授权手机号直接登陆创建账号返回 token 给前端。
+3. [短信登录](https://guojiang.club/docs/api/v1/login-sms)：如果用户不通过微信授权手机号登陆，用户可以继续通过[发送短信](https://guojiang.club/docs/api/v1/login-get-smscode)进行短信登陆。
 
 ### 扫码体验
 
